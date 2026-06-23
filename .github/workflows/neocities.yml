@@ -23,5 +23,4 @@ jobs:
           cleanup: false
           neocities_supporter: false
           preview_before_deploy: true
-          dist_dir: ./
-          neocities_dist_dir: /blog
+          dist_dir: public
